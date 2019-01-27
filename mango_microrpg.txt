@@ -1,0 +1,25 @@
+Mango, a micro RPG by Rafael Fajardo.
+created for Global Game Jam 2019
+
+quest 1 find a large mango tree, one of the twenty meter tall ones (~60 feet)
+
+quest 2 stand below the mango tree and, without resorting to any tools or technologies, wait and catch a ripe mango as it falls from the tree. do not let it hit the ground. 
+
+quest 3 smell the mango you have caught. inhale deeply both the sweet fragrance of the fruit and the acrid smell of the sap where it was once attached to the tree
+
+quest 4 find a source of fresh water to rinse the mango. 
+
+quest 5 slowly, gently, rinse the mango. caress the skin. identify any bumps and markings that make this mango unique.
+
+quest 6 eat the mango, again without resorting to any tools or technologies. savor its sticky sweetness.
+
+quest 7 find an appropriate place to dig a hole in the earth to plant the seed. be mindful of the climate that will support the growth of the mango.
+
+quest 8 dig the hole. do not resort to any tools or technologies to help achieve this quest.
+
+quest 9 plant the mango seed in the hole
+
+quest 10 nurture the new mango tree until it is possible to participate in quest 1.
+
+###
+
