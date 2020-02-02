@@ -4,3 +4,4 @@ a micro Role Playing Game created for Global Game Jam 2019
 - two free DLC visual enhancers
 - a screen capture to document the game on the GGJ19 website
 - released into public domain
+- pair this game with our new soil_microRPG!
